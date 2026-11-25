@@ -1,19 +1,28 @@
 # cyber-security-portfolio-
 Hi, i'm Maria 
-I am currently stuyding cyber security and building practical skills  in:
+I am currently studying for the NCFE Cyber Security qualification and building my practical skills.
 
--Linux 
--Networking 
--Python
+About me
+I am developing knowledge in 
 -Cyber security fundamentals 
+-Networking 
+-Security operations
 -Digital forensics 
 -Ethical hacking 
 
-Learning journey
+Current status 
+Course: NCFE Cyber Security
+Status: Completing November 2026
 
-This repository contains my notes, labs projects and exercises as i develop my cyber security skills.
+Portfolio contents 
+As i progress through my training this repository will contain:
 
-Certification
-Cyber Security NCFE (In progress)
-Labs and projects 
-Coming soon 
+Course notes 
+Projects
+Practical labs 
+Research
+Security tools and techniques 
+Goals 
+Complete my Cyber Security Course 
+Build a portfolio of my practical work 
+Obtain my first role in cyber security 
